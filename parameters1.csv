@@ -1,0 +1,8 @@
+classifier_name,K-Nearest Neighbors
+library,sklearn
+test_size,0.20002187226596677
+weights,distance
+p,1
+n_neighbors,5
+leaf_size,30
+algorithm,ball_tree

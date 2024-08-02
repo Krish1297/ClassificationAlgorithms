@@ -1,0 +1,9 @@
+classifier_name,Random Forest
+library,sklearn
+test_size,0.20002187226596677
+n_estimators,150
+min_samples_split,2
+min_samples_leaf,1
+max_features,None
+max_depth,20
+criterion,entropy

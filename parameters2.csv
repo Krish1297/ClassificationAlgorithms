@@ -1,0 +1,7 @@
+classifier_name,Support Vector Machine
+library,sklearn
+test_size,0.20002187226596677
+kernel,rbf
+gamma,0.01
+degree,2
+C,10.0
