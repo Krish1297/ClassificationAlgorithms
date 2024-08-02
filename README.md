@@ -1,4 +1,4 @@
-# README
+# Image classification using K-Nearest Neighbors, Support Vector Machine, and Random Forest classifiers
 
 This repository contains a machine learning project for image classification using K-Nearest Neighbors, Support Vector Machine, and Random Forest classifiers. The project involves preprocessing image features, splitting the dataset, hyperparameter tuning, and evaluating the classifiers.
 
